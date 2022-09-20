@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wang8456.github.io/posts/c17.html</loc>
-    
-    <lastmod>2022-09-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wang8456.github.io/posts/bdb2.html</loc>
     
     <lastmod>2022-09-20</lastmod>
@@ -20,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://wang8456.github.io/posts/635a.html</loc>
+    <loc>https://wang8456.github.io/posts/c17.html</loc>
     
     <lastmod>2022-09-20</lastmod>
     
@@ -46,6 +37,15 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://wang8456.github.io/posts/635a.html</loc>
+    
+    <lastmod>2022-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://wang8456.github.io/</loc>
@@ -56,13 +56,6 @@
 
   
   <url>
-    <loc>https://wang8456.github.io/tags/%E9%9A%8F%E6%89%8B%E8%AE%B0%E4%BA%8B/</loc>
-    <lastmod>2022-09-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://wang8456.github.io/tags/%E5%86%99%E4%BD%9C/</loc>
     <lastmod>2022-09-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -71,6 +64,13 @@
   
   <url>
     <loc>https://wang8456.github.io/tags/%E6%91%98%E6%8A%84/</loc>
+    <lastmod>2022-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wang8456.github.io/tags/%E9%9A%8F%E6%89%8B%E8%AE%B0%E4%BA%8B/</loc>
     <lastmod>2022-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
