@@ -499,3 +499,6 @@ center#name-container {
 :root {
     --anzhiyu-main:#ed709b /*我的主题色*/
 }
+:root {
+    --anzhiyu-card-bg: #ffffffc1 /*我的主题色*/
+}
