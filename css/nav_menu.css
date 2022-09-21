@@ -487,3 +487,15 @@ center#name-container {
 .back-menu-item-icon.loading img {
   width: 25px;
 }
+:root{
+    --anzhiyu-white:#ffffff /*我的主题色*/
+}
+:root {
+    --anzhiyu-blue-main:#5dffae /*我的主题色*/
+}
+:root {
+    --anzhiyu-theme:#ed709b /*我的主题色*/
+}
+:root {
+    --anzhiyu-main:#ed709b /*我的主题色*/
+}
