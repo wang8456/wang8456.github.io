@@ -2,6 +2,105 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wang8456.github.io/wordScenery/index.html</loc>
+    
+    <lastmod>2023-04-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wang8456.github.io/dailyPhoto/index.html</loc>
+    
+    <lastmod>2023-04-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wang8456.github.io/json/music.json</loc>
+    
+    <lastmod>2023-04-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wang8456.github.io/music/index.html</loc>
+    
+    <lastmod>2023-04-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wang8456.github.io/fcircle/index.html</loc>
+    
+    <lastmod>2023-04-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wang8456.github.io/album/index.html</loc>
+    
+    <lastmod>2023-04-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wang8456.github.io/about/index.html</loc>
+    
+    <lastmod>2023-04-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wang8456.github.io/link/index.html</loc>
+    
+    <lastmod>2023-04-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wang8456.github.io/essay/index.html</loc>
+    
+    <lastmod>2023-04-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wang8456.github.io/tags/index.html</loc>
+    
+    <lastmod>2023-04-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wang8456.github.io/categories/index.html</loc>
+    
+    <lastmod>2023-04-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wang8456.github.io/posts/7af8.html</loc>
     
     <lastmod>2023-04-12</lastmod>
@@ -11,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://wang8456.github.io/posts/9743.html</loc>
+    <loc>https://wang8456.github.io/posts/129b.html</loc>
     
     <lastmod>2023-04-12</lastmod>
     
@@ -20,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://wang8456.github.io/posts/129b.html</loc>
+    <loc>https://wang8456.github.io/posts/9743.html</loc>
     
     <lastmod>2023-04-12</lastmod>
     
@@ -112,7 +211,7 @@
 
   <url>
     <loc>https://wang8456.github.io/</loc>
-    <lastmod>2023-04-12</lastmod>
+    <lastmod>2023-04-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -120,21 +219,21 @@
   
   <url>
     <loc>https://wang8456.github.io/tags/%E9%9A%8F%E6%89%8B%E8%AE%B0%E4%BA%8B/</loc>
-    <lastmod>2023-04-12</lastmod>
+    <lastmod>2023-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wang8456.github.io/tags/%E5%86%99%E4%BD%9C/</loc>
-    <lastmod>2023-04-12</lastmod>
+    <lastmod>2023-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wang8456.github.io/tags/%E6%91%98%E6%8A%84/</loc>
-    <lastmod>2023-04-12</lastmod>
+    <lastmod>2023-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
