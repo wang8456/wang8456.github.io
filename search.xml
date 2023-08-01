@@ -4,25 +4,6 @@
   
     
     <entry>
-      <title>占位字</title>
-      <link href="/posts/3de3.html"/>
-      <url>/posts/3de3.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 随手记事 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>太阳底下无新事</title>
       <link href="/posts/f0e2.html"/>
       <url>/posts/f0e2.html</url>
@@ -42,11 +23,11 @@
     
     
     <entry>
-      <title>能量、女孩和某某</title>
+      <title>能量、女孩</title>
       <link href="/posts/9743.html"/>
       <url>/posts/9743.html</url>
       
-        <content type="html"><![CDATA[<h1 id="能量"><a href="#能量" class="headerlink" title="能量"></a>能量</h1><p>能量，每个人都有一团能量，需要或者是被需要，在一些夜晚，无人所依，寂寥。很幸运，我们是朋友，你叫我们一起听歌，我仿佛感受到你的心情，也有被人需要，很幸福。你的能量传递给我，心里微弱的火花也蔓延了过来。</p><h1 id="女孩"><a href="#女孩" class="headerlink" title="女孩"></a>女孩</h1><p>朋友圈一个女孩子，时常分享她爱听的歌和有趣的生活，这倒是我常想的一句话，宛如平凡生活里的奇迹，灼热的心灵，鲜活的灵魂，像一首唱不完的歌一样。往里窥视，倒是知道人生的大多数常态，很多的思想。如星夜里漂浮的诗句，水滴，那么深邃。</p><h1 id="某某"><a href="#某某" class="headerlink" title="某某"></a>某某</h1><p>还有xx，你去做云，彩虹，和太阳吧。我知道一错过就是一辈子的事情了，你要是真像我心里面描绘的那么好，无数的遐想一样。你就走吧越远越好，越高越好。以后再会，你就在天上彩虹里。我并不喜欢你了，也不后悔，只如此是我平平无奇的人生所可以看见的色彩。</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="能量"><a href="#能量" class="headerlink" title="能量"></a>能量</h1><p>能量，每个人都有一团能量，需要或者是被需要，在一些夜晚，无人所依，寂寥。很幸运，我们是朋友，你叫我们一起听歌，我仿佛感受到你的心情，也有被人需要，很幸福。你的能量传递给我，心里微弱的火花也蔓延了过来。</p><h1 id="女孩"><a href="#女孩" class="headerlink" title="女孩"></a>女孩</h1><p>朋友圈一个女孩子，时常分享她爱听的歌和有趣的生活，这倒是我常想的一句话，宛如平凡生活里的奇迹，灼热的心灵，鲜活的灵魂，像一首唱不完的歌一样。往里窥视，倒是知道人生的大多数常态，很多的思想。如星夜里漂浮的诗句，水滴，那么深邃。</p>]]></content>
       
       
       
@@ -235,17 +216,6 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html"/>
-      <url>/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -257,31 +227,31 @@
     
     
     <entry>
+      <title>相册集</title>
+      <link href="/album/index.html"/>
+      <url>/album/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html"/>
+      <url>/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8.html"/>
       <url>/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/categories/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%AF.html"/>
-      <url>/categories/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%AF.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -301,9 +271,9 @@
     
     
     <entry>
-      <title>即刻短文</title>
-      <link href="/essay/index.html"/>
-      <url>/essay/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -312,9 +282,9 @@
     
     
     <entry>
-      <title>相册集</title>
-      <link href="/album/index.html"/>
-      <url>/album/index.html</url>
+      <title>Hello World</title>
+      <link href="/categories/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%AF.html"/>
+      <url>/categories/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%AF.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -326,6 +296,17 @@
       <title>link</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>即刻短文</title>
+      <link href="/essay/index.html"/>
+      <url>/essay/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -356,6 +337,17 @@
     
     
     <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>音乐馆</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
@@ -370,17 +362,6 @@
       <title>世界各地风景</title>
       <link href="/wordScenery/index.html"/>
       <url>/wordScenery/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
