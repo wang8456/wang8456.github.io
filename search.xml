@@ -195,8 +195,8 @@
     
     <entry>
       <title>夏的冬</title>
-      <link href="/posts/697.html"/>
-      <url>/posts/697.html</url>
+      <link href="/posts/bf8s.html"/>
+      <url>/posts/bf8s.html</url>
       
         <content type="html"><![CDATA[<p>日本美了吧，有雪，有藤井树，有少年柏原崇。</p>]]></content>
       
@@ -204,7 +204,7 @@
       
         <tags>
             
-            <tag> 写作 </tag>
+            <tag> 随手记事 </tag>
             
         </tags>
       
@@ -213,28 +213,6 @@
     
   
   
-    
-    
-    <entry>
-      <title>相册集</title>
-      <link href="/album/index.html"/>
-      <url>/album/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
     
     
     <entry>
@@ -250,8 +228,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/categories/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%AF.html"/>
-      <url>/categories/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%AF.html</url>
+      <link href="/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html"/>
+      <url>/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -271,9 +249,9 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html"/>
-      <url>/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -282,9 +260,20 @@
     
     
     <entry>
-      <title>日常生活</title>
-      <link href="/dailyPhoto/index.html"/>
-      <url>/dailyPhoto/index.html</url>
+      <title>Hello World</title>
+      <link href="/categories/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%AF.html"/>
+      <url>/categories/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%AF.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>相册集</title>
+      <link href="/album/index.html"/>
+      <url>/album/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -304,9 +293,20 @@
     
     
     <entry>
-      <title>朋友圈</title>
-      <link href="/fcircle/index.html"/>
-      <url>/fcircle/index.html</url>
+      <title>日常生活</title>
+      <link href="/dailyPhoto/index.html"/>
+      <url>/dailyPhoto/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -326,20 +326,9 @@
     
     
     <entry>
-      <title>音乐馆</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>朋友圈</title>
+      <link href="/fcircle/index.html"/>
+      <url>/fcircle/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -362,6 +351,17 @@
       <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐馆</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
