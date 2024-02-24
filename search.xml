@@ -235,9 +235,31 @@
     
     
     <entry>
+      <title>相册集</title>
+      <link href="/album/index.html"/>
+      <url>/album/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html"/>
+      <url>/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -279,50 +301,6 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html"/>
-      <url>/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>相册集</title>
-      <link href="/album/index.html"/>
-      <url>/album/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>日常生活</title>
-      <link href="/dailyPhoto/index.html"/>
-      <url>/dailyPhoto/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>即刻短文</title>
-      <link href="/essay/index.html"/>
-      <url>/essay/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>朋友圈</title>
       <link href="/fcircle/index.html"/>
       <url>/fcircle/index.html</url>
@@ -356,9 +334,9 @@
     
     
     <entry>
-      <title>音乐馆</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>日常生活</title>
+      <link href="/dailyPhoto/index.html"/>
+      <url>/dailyPhoto/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -378,9 +356,31 @@
     
     
     <entry>
+      <title>音乐馆</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>世界各地风景</title>
       <link href="/wordScenery/index.html"/>
       <url>/wordScenery/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>即刻短文</title>
+      <link href="/essay/index.html"/>
+      <url>/essay/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
