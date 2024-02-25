@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>2月21日</title>
+      <link href="/posts/6f9.html"/>
+      <url>/posts/6f9.html</url>
+      
+        <content type="html"><![CDATA[<p>聊天本质上是想说与回应。<br>尚且有去述说的心，尚且有去倾听的能力。<br>两者都缺则聊天不成立。不想说或者不想听。<br>不好回复可能是因为我们同样也承载着别人的期待。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 随手记事 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>2月14日</title>
       <link href="/posts/cabd.html"/>
       <url>/posts/cabd.html</url>
@@ -28,25 +47,6 @@
       <url>/posts/df9c.html</url>
       
         <content type="html"><![CDATA[<p>对我来说人活着，哪哪都一样。从一处到另一处依旧是过日子，依旧是会有一套生活的模式。且都有会很有意思的事情。爱自然。爱快乐。爱生活的气息。爱空气的温度。爱下雨皮肤的温热，爱晴空风和光的愉悦。爱灯光，爱月光。爱白云，爱夕阳。把身体分解成一块块碎片，任由飘往何处。就飘啊飘啊融为世界的一部分。</p><p><a href="https://music.163.com/song?id=1813801764&amp;userid=1479070652">https://music.163.com/song?id=1813801764&amp;userid=1479070652</a></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 随手记事 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>2月21日</title>
-      <link href="/posts/6f9.html"/>
-      <url>/posts/6f9.html</url>
-      
-        <content type="html"><![CDATA[<p>聊天本质上是想说与回应。<br>尚且有去述说的心，尚且有去倾听的能力。<br>两者都缺则聊天不成立。不想说或者不想听。<br>不好回复可能是因为我们同样也承载着别人的期待。</p>]]></content>
       
       
       
@@ -273,9 +273,9 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>Hello World</title>
+      <link href="/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html"/>
+      <url>/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -284,20 +284,9 @@
     
     
     <entry>
-      <title>相册集</title>
-      <link href="/album/index.html"/>
-      <url>/album/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>日常生活</title>
-      <link href="/dailyPhoto/index.html"/>
-      <url>/dailyPhoto/index.html</url>
+      <title>Hello World</title>
+      <link href="/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8.html"/>
+      <url>/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -328,31 +317,42 @@
     
     
     <entry>
+      <title>日常生活</title>
+      <link href="/dailyPhoto/index.html"/>
+      <url>/dailyPhoto/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>相册集</title>
+      <link href="/album/index.html"/>
+      <url>/album/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>即刻短文</title>
       <link href="/essay/index.html"/>
       <url>/essay/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8.html"/>
-      <url>/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html"/>
-      <url>/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -372,6 +372,17 @@
     
     
     <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/json/music.json"/>
       <url>/json/music.json</url>
@@ -383,9 +394,9 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>世界各地风景</title>
+      <link href="/wordScenery/index.html"/>
+      <url>/wordScenery/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -408,17 +419,6 @@
       <title>音乐馆</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>世界各地风景</title>
-      <link href="/wordScenery/index.html"/>
-      <url>/wordScenery/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
