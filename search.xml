@@ -30,6 +30,12 @@
         <content type="html"><![CDATA[<p>我想起来了，先提一嘴，怎么没人说熬夜也会醉人，以前也有过喝可乐有种迷糊感觉的经历。<br>我的部分审美意识构建在我所熟悉的事物上。一两天前出去玩的时候。发现我所喜欢的景色事物总是似曾相识的。相似于我所看过的一些影视，视频，图片。于是我陷入了一种怀疑之中，负面的东西就不展开阐述了。再回溯到一个小时之前。有一种树状的灯在奇妙的闪烁。按理来讲它并不奇妙。很有可能是因为我的灵魂在游荡，大脑放空了。地上有往上浮的水汽，路灯也是亮着。光线透过水汽显得很迷幻。而路灯对我的闪光近视眼来说也是迷幻的。远处的人家的灯火迷瞪瞪的，很晃荡。恰时的，我的皮肤处于冷于热的交界。刚泛起一点冷，身体开始升起来一点热气。它们带给我的感觉让我觉得似曾相识。我的耳机还在放着歌。这种感觉在我的人生中已经不是第一次。我把它们归类于一种末日前夕，毁灭重生的感觉。因为以前观看一些灾难片也会有这种感觉。它们极其的安静。又很疯狂。回到上午，去翻看一个关注的用户的社交平台。去找壁纸。我发现我很喜欢男同性恋的审美。虽然我明确的不是。他们表达出的。不像女孩子一样大大方方。总让人感觉脆弱的，易碎的。也有一个词，绚烂。兴许形容的不对或者不全面。文字也很有能量，有人是属于细细的，像小溪一样流进心里，很柔软很顺畅。还有一些，算了，我形容不出来。我每次看见的时候，真的惊叹，他们真是天生的艺术家。当然这些可不是他们的生活，他们分享的一面其实是很热情的。只是我看到的属于我审美的一面。<br>还有一些女孩子。喜欢或者表达出一些恐惧，猎奇的东西。为什么我要说是女孩子。这并不准确。只是我看到的大多数是女孩子。严格来讲很片面。但我无法否定它的存在。我说的风格作品的代表诸如微博上西游朽。摄影师荒木经惟。还有一些我忘了。几年前，我在我的长间隔日记里写，我对世界迷茫了。长长的诉说我不理解这些事物。到现在倒是觉得一切显得正常。我不知道别人的生长。它们的作品却表达出很多情绪力很强的事物（我认为也到了艺术家的地步）。我们共同构建的世界。互有边界。但都是新的。</p><p>打回一点，歌曲分享也有可能瞬发的心情，不只是它好要让人看它，也可能是表达自己某刻的心情。</p>]]></content>
       
       
+      <categories>
+          
+          <category> 生活 </category>
+          
+      </categories>
+      
       
         <tags>
             
@@ -273,6 +279,17 @@
     
     
     <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>日常生活</title>
       <link href="/dailyPhoto/index.html"/>
       <url>/dailyPhoto/index.html</url>
@@ -284,20 +301,9 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html"/>
-      <url>/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/categories/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%AF.html"/>
-      <url>/categories/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%AF.html</url>
+      <title>相册集</title>
+      <link href="/album/index.html"/>
+      <url>/album/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -318,30 +324,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8.html"/>
-      <url>/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>相册集</title>
-      <link href="/album/index.html"/>
-      <url>/album/index.html</url>
+      <link href="/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html"/>
+      <url>/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -361,9 +345,42 @@
     
     
     <entry>
+      <title>Hello World</title>
+      <link href="/categories/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%AF.html"/>
+      <url>/categories/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%AF.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>朋友圈</title>
       <link href="/fcircle/index.html"/>
       <url>/fcircle/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8.html"/>
+      <url>/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -377,17 +394,6 @@
       <url>/json/music.json</url>
       
         <content type="html"><![CDATA[[{"name":"青花瓷","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/青花瓷/青花瓷.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002eFUFm2XYZ7z_2.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/青花瓷/青花瓷.lrc"},{"name":"稻香","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/稻香/稻香.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/稻香/稻香.lrc"},{"name":"晴天","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/晴天/晴天.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000MkMni19ClKG_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/晴天/晴天.lrc"},{"name":"七里香","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/七里香/七里香.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003DFRzD192KKD_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/七里香/七里香.lrc"},{"name":"花海","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/花海/花海.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/花海/花海.lrc"},{"name":"反方向的钟","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/反方向的钟/反方向的钟.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000f01724fd7TH_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/反方向的钟/反方向的钟.lrc"},{"name":"兰亭序","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/兰亭序/兰亭序.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/兰亭序/兰亭序.lrc"},{"name":"说好的辛福呢","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/说好的辛福呢/说好的辛福呢.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/说好的辛福呢/说好的幸福呢.lrc"},{"name":"等你下课 (with 杨瑞代)","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/等你下课/等你下课.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003bSL0v4bpKAx_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/等你下课/等你下课.lrc"},{"name":"我落泪情绪零碎","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/我落泪情绪零碎/我落泪情绪零碎.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000bviBl4FjTpO_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/我落泪情绪零碎/我落泪情绪零碎.lrc"},{"name":"听妈妈的话","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/听妈妈的话/听妈妈的话.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002jLGWe16Tf1H_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/听妈妈的话/听妈妈的话.lrc"},{"name":"明明就","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/明明就/明明就.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003Ow85E3pnoqi_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/明明就/明明就.lrc"},{"name":"我是如此相信","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/我是如此相信/我是如此相信.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000001hGx1Z0so1YX_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/我是如此相信/我是如此相信.lrc"},{"name":"发如雪","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/发如雪/发如雪.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M0000024bjiL2aocxT_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/发如雪/发如雪.lrc"},{"name":"以父之名","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/以父之名/以父之名.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000MkMni19ClKG_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/以父之名/以父之名.lrc"},{"name":"园游会","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/园游会/园游会.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003DFRzD192KKD_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/园游会/园游会.lrc"},{"name":"本草纲目","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/本草纲目/本草纲目.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002jLGWe16Tf1H_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/本草纲目/本草纲目.lrc"},{"name":"龙卷风","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/龙卷风/龙卷风.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000f01724fd7TH_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/龙卷风/龙卷风.lrc"}]]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
