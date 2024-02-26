@@ -38,7 +38,7 @@
       
       <categories>
           
-          <category> 生活 </category>
+          <category> 生活日常 </category>
           
       </categories>
       
@@ -285,17 +285,6 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html"/>
-      <url>/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -318,7 +307,29 @@
     
     
     <entry>
-      <title>Hello World</title>
+      <title>前端开发</title>
+      <link href="/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html"/>
+      <url>/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>大学生涯</title>
+      <link href="/categories/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%AF.html"/>
+      <url>/categories/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%AF.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>生活日常</title>
       <link href="/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8.html"/>
       <url>/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8.html</url>
       
@@ -340,17 +351,6 @@
     
     
     <entry>
-      <title>即刻短文</title>
-      <link href="/essay/index.html"/>
-      <url>/essay/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>相册集</title>
       <link href="/album/index.html"/>
       <url>/album/index.html</url>
@@ -362,9 +362,9 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/categories/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%AF.html"/>
-      <url>/categories/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%AF.html</url>
+      <title>即刻短文</title>
+      <link href="/essay/index.html"/>
+      <url>/essay/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -395,17 +395,6 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>link</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
@@ -417,9 +406,9 @@
     
     
     <entry>
-      <title>世界各地风景</title>
-      <link href="/wordScenery/index.html"/>
-      <url>/wordScenery/index.html</url>
+      <title>音乐馆</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -428,9 +417,20 @@
     
     
     <entry>
-      <title>音乐馆</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>世界各地风景</title>
+      <link href="/wordScenery/index.html"/>
+      <url>/wordScenery/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
