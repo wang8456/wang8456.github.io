@@ -382,6 +382,17 @@
     
     
     <entry>
+      <title>即刻短文</title>
+      <link href="/essay/index.html"/>
+      <url>/essay/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -404,6 +415,28 @@
     
     
     <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[<style>  #libCategories .card-wrap:hover .card-info:after {    width: 300%;  }</style><link rel="stylesheet" type="text/css" href="https://npm.elemecdn.com/js-heo@1.0.11/3dCard/no3d.css"><div id='libCategories'><div id="lib-cards" class="container"><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/前端开发/")'><card data-image="https://img02.anzhiy.cn/adminuploads/1/2022/09/05/6315e144528fb.webp"><h1 slot="header">前端</h1><p slot="content">前端学习之路。</p></card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/大学生涯/")'>  <card data-image="https://img02.anzhiy.cn/adminuploads/1/2022/09/05/6315e1433f197.webp">    <h1 slot="header">大学生活</h1>    <p slot="content">在大学期间发生的一些事儿。</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/生活日常/")'>  <card data-image="https://img02.anzhiy.cn/adminuploads/1/2022/09/05/6315e142a69a9.webp">    <h1 slot="header">生活</h1>    <p slot="content">和好朋友👬们一起经历的有趣事。</p>  </card></a></div></div><script src='https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/vue/2.6.14/vue.min.js' data-pjax></script><script type="text/javascript" src="https://cdn1.tianli0.top/npm/js-heo@1.0.11/3dCard/no3d.js" data-pjax></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>日常生活</title>
+      <link href="/dailyPhoto/index.html"/>
+      <url>/dailyPhoto/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>摘抄</title>
       <link href="/categories/%E6%91%98%E6%8A%84%E5%90%88%E9%9B%86.html"/>
       <url>/categories/%E6%91%98%E6%8A%84%E5%90%88%E9%9B%86.html</url>
@@ -415,11 +448,11 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>相册集</title>
+      <link href="/album/index.html"/>
+      <url>/album/index.html</url>
       
-        <content type="html"><![CDATA[<style>  #libCategories .card-wrap:hover .card-info:after {    width: 300%;  }</style><link rel="stylesheet" type="text/css" href="https://npm.elemecdn.com/js-heo@1.0.11/3dCard/no3d.css"><div id='libCategories'><div id="lib-cards" class="container"><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/前端开发/")'><card data-image="https://img02.anzhiy.cn/adminuploads/1/2022/09/05/6315e144528fb.webp"><h1 slot="header">前端</h1><p slot="content">前端学习之路。</p></card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/大学生涯/")'>  <card data-image="https://img02.anzhiy.cn/adminuploads/1/2022/09/05/6315e1433f197.webp">    <h1 slot="header">大学生活</h1>    <p slot="content">在大学期间发生的一些事儿。</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/生活日常/")'>  <card data-image="https://img02.anzhiy.cn/adminuploads/1/2022/09/05/6315e142a69a9.webp">    <h1 slot="header">生活</h1>    <p slot="content">和好朋友👬们一起经历的有趣事。</p>  </card></a></div></div><script src='https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/vue/2.6.14/vue.min.js' data-pjax></script><script type="text/javascript" src="https://cdn1.tianli0.top/npm/js-heo@1.0.11/3dCard/no3d.js" data-pjax></script>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -437,9 +470,9 @@
     
     
     <entry>
-      <title>相册集</title>
-      <link href="/album/index.html"/>
-      <url>/album/index.html</url>
+      <title>朋友圈</title>
+      <link href="/fcircle/index.html"/>
+      <url>/fcircle/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -470,42 +503,9 @@
     
     
     <entry>
-      <title>朋友圈</title>
-      <link href="/fcircle/index.html"/>
-      <url>/fcircle/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>音乐馆</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>即刻短文</title>
-      <link href="/essay/index.html"/>
-      <url>/essay/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>世界各地风景</title>
-      <link href="/wordScenery/index.html"/>
-      <url>/wordScenery/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -525,9 +525,9 @@
     
     
     <entry>
-      <title>日常生活</title>
-      <link href="/dailyPhoto/index.html"/>
-      <url>/dailyPhoto/index.html</url>
+      <title>世界各地风景</title>
+      <link href="/wordScenery/index.html"/>
+      <url>/wordScenery/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
